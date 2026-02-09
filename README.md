@@ -21,3 +21,5 @@ cd pdf-converter
 
 ## Comment l'utiliser
 Pour pouvoir tester les fonctions, enlevez le # avant la ligne qui permet de tester la fonction.
+
+Vous pouvez aussi tester les fonctionnalités présentes en utilisant le fichier 'MenuPrincipal.py'
